@@ -4,7 +4,7 @@ public class Main {
         int rubles = 20;
         int ticket = 141414;
 
-        int bonus = ticket/rubles;
+        int bonus = ticket / rubles;
         System.out.println("Итоговый бонус:" + bonus);
 
     }
