@@ -5,8 +5,7 @@ public class Main {
         int ticket = 141414;
 
         int bonus = ticket/rubles;
-                           System.out.println("Итоговый бонус:" + bonus);
-        //DFDFSSDF
+        System.out.println("Итоговый бонус:" + bonus);
 
     }
 }
